@@ -1,6 +1,16 @@
+# Social Media App (Lite)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## MERNG Tech Stack
+
+MongoDB
+Express
+React
+Node
+GraphQL
 
 ## Available Scripts
 
