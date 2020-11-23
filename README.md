@@ -1,8 +1,8 @@
-## Social Media App (Lite)
+# Social Media App (Lite)
 
-Hosted at- twitter-lite.netlify.app
+Hosted at- https://twitter-lite.netlify.app/
 
-# MERNG Tech Stack
+## MERNG Tech Stack
 
 MongoDB
 Express
